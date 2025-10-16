@@ -8,9 +8,9 @@ Observer
 Template
 Singleton
 Strategy
+Builder
+State Design 
 
 More to come:
-Builder
 Factory
-State Design
 Repository 
