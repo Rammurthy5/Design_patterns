@@ -7,9 +7,9 @@ Chain of responsiblity
 Observer
 Template
 Singleton
+Strategy
 
 More to come:
-Strategy
 Builder
 Factory
 State Design
