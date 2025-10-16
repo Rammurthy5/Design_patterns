@@ -9,6 +9,8 @@ Template
 Singleton
 
 More to come:
+Strategy
+Builder
 Factory
-Command
-Facade
+State Design
+Repository 
