@@ -9,8 +9,8 @@ Template
 Singleton
 Strategy
 Builder
-State Design 
+State
+Repository
 
 More to come:
-Factory
-Repository 
+Factory 
