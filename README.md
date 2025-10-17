@@ -12,5 +12,10 @@ Builder
 State
 Repository
 
+
 More to come:
+
 Factory 
+
+
+Sorting algorithms: https://github.com/Rammurthy5/sorting_algorithms
